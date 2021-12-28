@@ -1,0 +1,9 @@
+Random info - 
+
+csv files 1,2,3,7,8 - best books of 21st century list
+csv files 4,5,6,9,10 - worst books list
+
+1,2,3,4,5,6 - 800 rows each
+7,8,9,10 - 600 rows each
+
+final csv file - 800*6 + 600*4 = 4800 + 2400 = 7200 rows.
